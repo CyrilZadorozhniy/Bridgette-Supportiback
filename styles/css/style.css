@@ -738,6 +738,7 @@ input {
   }
   .featured-product-section .wrap-img {
     margin-bottom: 20px;
+    margin: 0 auto;
   }
   .featured-product-section .advantages-list {
     max-width: 200px;
@@ -771,9 +772,10 @@ input {
   .welcome-section {
     background-image: url("../../img/welcome-section-mobile.jpg");
     background-size: cover;
+    background-position: center;
     height: auto;
     min-height: 75vh;
-    padding: 0 10px;
+    padding: 15px 10px;
   }
   .welcome-section .wrap-content {
     max-width: 370px;
